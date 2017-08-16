@@ -1,6 +1,6 @@
-# Simple-Shiny-App
+# Simple-Shiny-WebApp
 
-A simple shiny app for data visualization.
+A simple shiny dashboard for data visualization.
 
 
 
